@@ -1,0 +1,3 @@
+To compile:
+
+gfortran -c vector.f90 && gfortran -c particle.f90 && gfortran -c inputfile_handler.f90 && gfortran -c command_line_argument_module.f90 && gfortran -c vector.f90 && gfortran -c main.f90 && gfortran main.o vector.o particle.o command_line_argument_module.o inputfile_handler.o
