@@ -13,12 +13,12 @@ The [report](Documentation/report.pdf) contains the following topics.
 1. Introduction
 2. Methods
 3. Implementation of methods
-   3.1 Overview of structure
-   3.2 Coordinate system
-   3.3 Input and output
-   3.3.1 Units
-   3.3.2 Input
-   3.3.3 Output
+   * 3.1 Overview of structure
+   * 3.2 Coordinate system
+   * 3.3 Input and output
+   * 3.3.1 Units
+   * 3.3.2 Input
+   * 3.3.3 Output
 3.4 Running the program
 4. Results
 5. Conclusions
