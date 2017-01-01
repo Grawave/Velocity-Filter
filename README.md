@@ -9,6 +9,7 @@ A trajectory of a proton (charge=1.602176E-19 C, mass=1.67262E-27 kg) with initi
 ### Documentation
 
 The [report](Documentation/report.pdf) contains the following topics.
+
 1. Introduction
 2. Methods
 3. Implementation of methods
